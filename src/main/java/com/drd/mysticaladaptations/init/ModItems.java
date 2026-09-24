@@ -37,7 +37,7 @@ public final class ModItems {
     public static final DeferredHolder<Item, Item> INSANIUM_SHOVEL = registerGear("insanium_shovel", () -> new EssenceShovelItem(ModItemTier.INSANIUM, 6, 2));
     public static final DeferredHolder<Item, Item> INSANIUM_AXE = registerGear("insanium_axe", () -> new EssenceAxeItem(ModItemTier.INSANIUM, 6, 2));
     public static final DeferredHolder<Item, Item> INSANIUM_HOE = registerGear("insanium_hoe", () -> new EssenceHoeItem(ModItemTier.INSANIUM, 6, 2));
-    public static final DeferredHolder<Item, Item> INSANIUM_STAFF = registerGear("insanium_staff", () -> new EssenceStaffItem(6, 2));
+    // public static final DeferredHolder<Item, Item> INSANIUM_STAFF = registerGear("insanium_staff", () -> new EssenceStaffItem(6, 2));
     public static final DeferredHolder<Item, Item> INSANIUM_WATERING_CAN = registerGear("insanium_watering_can", () -> new EssenceWateringCanItem(11, 0.45, ModCropTier.SIX.getTextColor()));
     public static final DeferredHolder<Item, Item> INSANIUM_BOW = registerGear("insanium_bow", () -> new EssenceBowItem(ModItemTier.INSANIUM, 6, 2, 1.80F, 3.0F));
     public static final DeferredHolder<Item, Item> INSANIUM_CROSSBOW = registerGear("insanium_crossbow", () -> new EssenceCrossbowItem(ModItemTier.INSANIUM, 6, 2, 1.80F, 3.0F));
