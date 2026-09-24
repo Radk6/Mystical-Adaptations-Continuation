@@ -15,7 +15,7 @@
   },
   "ingredients": [
     {
-      "tag": "forge:storage_blocks/quartz"
+      "tag": "c:storage_blocks/quartz"
     },
     {
       "item": "mysticalagradditions:insanium_essence"
@@ -27,7 +27,7 @@
       "item": "mysticalagradditions:insanium_essence"
     },
     {
-      "tag": "forge:storage_blocks/quartz"
+      "tag": "c:storage_blocks/quartz"
     },
     {
       "item": "mysticalagradditions:insanium_essence"
