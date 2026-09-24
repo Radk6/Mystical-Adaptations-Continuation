@@ -23,7 +23,7 @@ public final class ModCreativeModeTabs {
                 output.accept(ModItems.INSANIUM_SHOVEL);
                 output.accept(ModItems.INSANIUM_AXE);
                 output.accept(ModItems.INSANIUM_HOE);
-                output.accept(ModItems.INSANIUM_STAFF);
+                //output.accept(ModItems.INSANIUM_STAFF);
                 output.accept(ModItems.INSANIUM_WATERING_CAN);
                 output.accept(ModItems.INSANIUM_BOW);
                 output.accept(ModItems.INSANIUM_CROSSBOW);
